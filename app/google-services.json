@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "554214853972",
+    "project_id": "savingapp-3c948",
+    "storage_bucket": "savingapp-3c948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554214853972:android:6766a063ba1f1ed2910cc1",
+        "android_client_info": {
+          "package_name": "com.imranmelikov.internetnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554214853972-mkt9d3d4msvucqotdksbr3obsnhmj7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuSgbbVJVJTCA1R-YfCE1-QDUKVNwiYJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554214853972-mkt9d3d4msvucqotdksbr3obsnhmj7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554214853972:android:e02d0f8fe24310c1910cc1",
+        "android_client_info": {
+          "package_name": "com.imranmelikov.zipex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554214853972-mkt9d3d4msvucqotdksbr3obsnhmj7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuSgbbVJVJTCA1R-YfCE1-QDUKVNwiYJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554214853972-mkt9d3d4msvucqotdksbr3obsnhmj7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
